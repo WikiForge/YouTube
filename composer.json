@@ -1,5 +1,5 @@
 {
-	"name": "miraheze/youtube",
+	"name": "wikiforge/youtube",
 	"description": "",
 	"require-dev": {
 		"mediawiki/mediawiki-codesniffer": "41.0.0",
